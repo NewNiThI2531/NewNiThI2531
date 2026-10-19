@@ -36,8 +36,8 @@
 
 ## 🛠️ Highlighted Repositories
 
-- 🎫 **[service-ticket](https://github.com/NewNiThI2531/service-ticket)** — Lightweight, self-hosted ITSM ticket management system for Incident and Problem tracking (`TypeScript`)
-- 📦 **[inventorybox-production](https://github.com/NewNiThI2531/inventorybox-production)** — Production InventoryBox app connected to Supabase and Cloudinary
+- 🎫 **[service-ticket](https://github.com/NewNiThI2531/service-ticket)** — Lightweight, self-hosted ITSM ticket management system for Incident and Problem tracking (`Golang API` + `TypeScript`)
+- 📦 **[inventorybox-production](https://github.com/NewNiThI2531/inventorybox-production)** — Production InventoryBox app connected to Supabase and Cloudinary (`TypeScript`)
 - 🌐 **[holosphere-web](https://github.com/NewNiThI2531/holosphere-web)** — Web application project
 - 🤖 **[pantheon-ai](https://github.com/NewNiThI2531/pantheon-ai)** — AI project
 - 💬 **[hush-chat](https://github.com/NewNiThI2531/hush-chat)** — Chat application
@@ -49,5 +49,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NewNiThI2531&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewNiThI2531&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewNiThI2531&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=template,Baan,BR-Equipment-Project&langs_count=8" height="165" alt="Top Languages" />
 </div>
